@@ -7,10 +7,10 @@
 ## This is Replica of [AA Game](https://apps.apple.com/us/app/aa/id905852173) made by using Unity
 
 ## Some screen of Game
-![Menu Game](https://imgur.com/uiGve9n)
-![Menu Level Game](https://imgur.com/ZsDTtgU)
-![Playing](https://imgur.com/uRS1LWv)
-![Die](https://imgur.com/KT8jEi4)
+![Menu Game](https://i.imgur.com/uiGve9n.png[/img])
+![Level Menu Game](https://i.imgur.com/ZsDTtgU.png[/img])
+![Playing](https://i.imgur.com/uRS1LWv.png[/img])
+![Die](https://i.imgur.com/KT8jEi4.png[/img])
 
 --- 
 ## Reference:
